@@ -14,7 +14,7 @@
 
 ## Privacy
 
-No data leaves your browser. Ever. This extension does not collect any analytics and the [source code is openly available on Github](https://github.com/BTC415/Web-Scraping-Extension). Feel free to build it yourself with the instructions below for your peace of mind.
+No data leaves your browser. Ever. This extension does not collect any analytics and the [source code is openly available on Github](https://github.com/marksantiago290/Web-Scraping-Extension.git). Feel free to build it yourself with the instructions below for your peace of mind.
 
 Read the full [Privacy Policy](/PrivacyPolicy.md) here.
 
